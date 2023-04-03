@@ -1,0 +1,46 @@
+p{
+
+    margin: 0;
+
+}
+
+
+
+header{
+    position: relative; 
+    top: 0;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0px;
+    background-color:  #4A4A4A;
+    height: 180px;
+    width: 100%;
+}
+
+
+.about {
+    position: relative;
+   margin-top:  1% ;
+  }
+
+
+ .about1{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0%;
+ }
+
+
+
+.footer{
+    position: absolute  ; 
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0%;
+    background-color:  #4A4A4A;
+    height:130px;
+    width: 100%;
+}
